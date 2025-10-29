@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flashlightapp/static/css/main.e931a8b0.css",
+    "main.js": "/flashlightapp/static/js/main.355a5fe7.js",
+    "index.html": "/flashlightapp/index.html",
+    "main.e931a8b0.css.map": "/flashlightapp/static/css/main.e931a8b0.css.map",
+    "main.355a5fe7.js.map": "/flashlightapp/static/js/main.355a5fe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e931a8b0.css",
+    "static/js/main.355a5fe7.js"
+  ]
+}
